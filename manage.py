@@ -5,6 +5,8 @@ import sys
 
 #TEST
 
+#ON_NEW_BRANCH
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')
